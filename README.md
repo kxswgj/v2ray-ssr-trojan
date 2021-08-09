@@ -1,6 +1,6 @@
 # v2ray，ssr，trojan 订阅教程
 
-### [如果此教程对您有用，请点个小星星，后面会持续更新]https://github.com/kxswgj/v2ray-ssr-trojan
+### [如果此教程对您有用，请点个小星星，后面会持续更新](https://github.com/kxswgj/v2ray-ssr-trojan)
 
 ### iOS 使用教程
 
