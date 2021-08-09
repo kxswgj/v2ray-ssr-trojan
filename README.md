@@ -1,14 +1,16 @@
 # v2ray，ssr, trojan 订阅教程
 
+### [如果此教程对您有用，请点个小星星，后面会持续更新](https://github.com/kxswgj/v2ray)
+
 ### iOS使用教程
 
-##### 事先下载shadowrocket小火箭软件
+#### 事先下载shadowrocket小火箭软件
 
 打开蓝色 App Store 软件（很多人打开 设置 软件，大错特错！不能打开 设置 软件）
 
 进入首页 -> 右上角个人头像点进去 -> 下拉到最下面找到 退出登录
 
-登录本网站分享的 免费美区appleid小火箭账号
+登录这里分享的 [免费美区appleid小火箭账号](https://github.com/kxswgj/appleid-free)
 
 登录后有一个Apple ID安全，请不要点击继续，点击最下面的 其他选项->不升级，没有提示Apple ID安全就不管
 
@@ -18,7 +20,7 @@
 
 下载成功后，回到蓝色App Store 软件首页->右上角个人头像点进去->下拉到最下面找到退出登录，用完账号必须退出，不及时退出可能你的手机会被锁住。
 
-##### 使用shadowrocket小火箭软件
+#### 使用shadowrocket小火箭软件
 
 打开shadowrocket软件，低下有4栏：首页 配置 数据 设置
 
