@@ -79,7 +79,7 @@
 
 ### Mac 使用教程
 
-下载clashX软件并安装 点击下载clashX mac
+下载clashX软件并安装 [点击下载clashX mac](https://github.com/yichengchen/clashX/releases)
 
 打开软件，找到 配置 -> 托管配置 -> 管理
 
