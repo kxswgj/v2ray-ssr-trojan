@@ -33,9 +33,9 @@
 回到 首页，选择你心仪的地区节点，打开最上面的 未连接 开关，即可使用。
 
 
-#### <a href="https://vip520.ml" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
+#### <a href="https://vip666.xyz" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
 
-#### <a href="https://vip520.ml" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
+#### <a href="https://vip666.xyz" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
 
 
 ### Android 使用教程
@@ -54,9 +54,9 @@
 
 选中延迟较低的节点，点击右下角圆形按钮，显示连接成功即可使用
 
-#### <a href="https://vip520.ml" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
+#### <a href="https://vip666.xyz" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
 
-#### <a href="https://vip520.ml" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
+#### <a href="https://vip666.xyz" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
 
 ### window 使用教程
 
@@ -72,9 +72,9 @@
 
 其他设置可以自己摸索,pac和全局摸索如下图（一般选pac模式，速度快，节约流量）
 
-#### <a href="https://vip520.ml" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
+#### <a href="https://vip666.xyz" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
 
-#### <a href="https://vip520.ml" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
+#### <a href="https://vip666.xyz" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
 
 ### Mac 使用教程
 
@@ -90,7 +90,7 @@
 
 选中你喜欢的地区节点，再点击 设置为系统代理，即可使用
 
-#### <a href="https://vip520.ml" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
+#### <a href="https://vip666.xyz" target="_blank">便宜，稳定，速度快 科学上网节点推荐</a>
 
-#### <a href="https://vip520.ml" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
+#### <a href="https://vip666.xyz" target="_blank">ssr, v2ray, trojan节点 注册就可以免费获取</a>
 
